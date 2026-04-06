@@ -3,7 +3,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
 -- Configuração
-local SERVER_URL = "https://chat-lua.onrender.com"
+local SERVER_URL = "https://chat-lua.onrender.com/chat"
 local USERNAME = LocalPlayer.Name
 local lastTimestamp = 0
 
